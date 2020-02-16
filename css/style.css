@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+    width: 100vw;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.song {
+    display: block;
+    /* padding: 200px; */
+    /* width: 100vw; */
+    width: 200px;
+    margin: auto;
+    border: red 2px dotted;
+    padding: 40px;
+}
+
+.song span {
+    font-style: italic;
+}
