@@ -17,3 +17,7 @@ body {
 .song span {
     font-style: italic;
 }
+
+h1 {
+    color: red;
+}
